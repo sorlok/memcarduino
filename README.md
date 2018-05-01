@@ -1,6 +1,14 @@
 # MemCARDuino
 ### Arduino PlayStation 1 Memory Card reader
 
+## NOTE:
+* This is a fork of https://github.com/ShendoXT/memcarduino
+* The only difference is that ACK is on pin 9 instead of on pin 2
+* This makes it easier to remember which pins to plug into:
+*   LHS of Arduino: +3v, +5v, GND
+*   RHS of Arduino: 13,12,11,10,9
+* ...all are adjacent on their side
+
 ## Thanks to:
 * Martin Korth of the NO$PSX - documented Memory Card protocol.
 * Andrew J McCubbin - documented PS1 SPI interface.
