@@ -18,7 +18,7 @@
 5. 3.6V - 5V pin with a voltage divider to 3.6V
 6. ATT - Pin 10 on Arduino
 7. CLK - Pin 13 on Arduino
-8. ACK - Pin 2 on Arduino
+8. ACK - Pin 9 on Arduino
 
 ## Reading save from a PC:
 To read saves from the Memory Card to your PC use [MemcardRex](http://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html) if you are using Windows.   

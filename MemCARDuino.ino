@@ -31,7 +31,7 @@
 #define CmdPin 11          //Command
 #define AttPin 10          //Attention (Select)
 #define ClockPin 13        //Clock
-#define AckPin 2           //Acknowledge
+#define AckPin 9           //Acknowledge
 
 byte ReadByte = 0;
 volatile int state = HIGH;
